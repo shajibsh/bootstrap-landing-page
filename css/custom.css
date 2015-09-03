@@ -1,0 +1,117 @@
+body 
+{
+font: 14px/1.7em "Palatino Linotype",arial,sans-serif;
+padding-bottom: 40px;
+padding-top: 20px;
+}
+h1 {
+font-size: 30px;
+text-shadow: 1px 1px #eee;
+font-weight: normal;
+line-height: normal;
+margin-top: 1px;
+margin-bottom: 0px;
+}
+h3{
+font-size: 25px;
+text-shadow: 1px 1px #eee;
+font-weight: normal;
+line-height: normal;
+margin-top: 1px;
+margin-bottom: 0px;
+}
+
+.container {
+padding: 5px 20px;
+}
+.getting-started{
+background:#000;
+color:#FFF;
+padding: 32px;
+padding-left:20px;
+text-align: left;
+margin-top: 3px
+}
+.more-info, .more-info:hover, .more-info-pdf, .more-info-pdf:hover{
+font-size:17px;
+padding:10px 10px;
+text-decoration:none;
+background:#000;
+color: #fff;
+cursor:pointer;
+}
+
+.more-info-pdf, .more-info-pdf:hover{
+padding:10px 14px
+}
+
+#profile-box{
+margin-right: 0;
+margin-top: 0;
+padding-left: 0;
+padding-right: 0;
+text-align: center
+}
+.profile {    
+display: inline-block;
+vertical-align: middle;
+}
+#register-row{
+
+border-right: 15px solid #000;
+border-top: 3px solid #000;
+margin-top: 15px;
+padding-top:15px;padding-bottom:15px
+}
+
+#upload-row, #order-row, #payment-row{
+border-top: 3px solid #000;
+border-right: 15px solid #000;
+margin-top: 0px;
+padding-top:15px;padding-bottom:15px
+}
+#payment-row{
+border-top: 3px solid #000;
+border-bottom: 3px solid #000;
+border-right: 15px solid #000;
+margin-top: 0px;
+padding-top:15px;padding-bottom:15px
+}
+
+.col-one{
+text-align:center;pading-left:0px;padding-top:30px;
+}
+.col-two, .col-three{
+text-align:center;
+}
+.col-four{
+text-align:center;padding-right:0px
+}
+.inner-text{
+color: #666;font-size: 20px
+}
+.inner-text-red{
+color: red;font-size: 20px;font-style:italic
+}
+.more-info-box{
+margin-top:14px
+}
+.more-info-pdf-box{
+margin-top:25px
+}
+.modal-footer, .modal-header{
+border:none
+}
+.btn-default {
+background-color: #000;
+border-color: #000;
+color: #fff;
+}
+
+a, a:hover{
+text-decoration:none;
+}
+
+
+
+
